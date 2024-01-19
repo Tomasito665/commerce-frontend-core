@@ -9,7 +9,7 @@ keywords:
 
 # Frontend Developer Guide
 
-This document provides instructions for creating and installing custom storefront themes for a application. It describes content rendering process and explains the view layer of the system to the extent required to build a theme efficiently. The document also walks through everyday frontend developer's tasks.
+This document provides instructions for creating and installing custom storefront themes for an application. It describes the content rendering process and explains the view layer of the system to the extent required to build a theme efficiently. The document also walks through everyday frontend developer's tasks.
 
 Developing the view part of a custom module and customizing the Admin panel design is out of the scope of this guide.
 
@@ -37,7 +37,7 @@ You can apply these levels of customization to your site, where the levels requi
 
 *  Finally, you can develop new modules to add new custom functionality to your site or to extend the functionality provided by existing or third-party modules.
 
-    This third level of customization is not addressed in this guide.
+    This last level of customization is not addressed in this guide.
 
     See the Developer Guide for details on how to develop new modules.
 
